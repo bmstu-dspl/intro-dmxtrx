@@ -118,6 +118,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 # Signature
 
-ФИО:
+ФИО: Романов Дмитрий Олегович
 
-Группа:
+Группа: ИУ6-34Б  
